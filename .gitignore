@@ -1,0 +1,5 @@
+.DS_Store
+/.idea/
+/.history/
+__pycache__
+/others/quanx/Profiles/secret.conf
